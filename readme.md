@@ -2,7 +2,7 @@
 
 This repository contains my lab assignments for CS122.
 
-Each lab is organized as a separate IntelliJ IDEA project and demonstrates the concepts covered in a **youtube video**.
+Each lab is organized as a separate Java project and demonstrates the concepts covered in a **youtube video**.
 
 ## Requirements
 
