@@ -14,8 +14,10 @@ public class useBall {
         }
         RgbColor transparentRed = new RgbColor(255, 0, 0, 0.5);
         RgbColor gray = new RgbColor(122, 122, 122);
+        RgbColor yellow = new RgbColor(255, 255, 0);
 
         System.out.println(transparentRed);
         System.out.println(gray);
+        System.out.println(yellow);
     }
 }

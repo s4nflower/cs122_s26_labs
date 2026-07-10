@@ -1,9 +1,9 @@
 public class RgbColor {
-    private int red;
-    private int green;
-    private int blue;
-    private double alpha;
-    private String colorName;
+    public int red;
+    public int green;
+    public int blue;
+    public double alpha;
+    public String colorName;
 
     // big constructor
     public RgbColor(int red, int green, int blue, double alpha, String colorName) {
