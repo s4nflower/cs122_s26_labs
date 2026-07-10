@@ -1,11 +1,15 @@
-## Java 122 labs folder
+# CS122 Labs
 
-### Requirements:
+This repository contains my lab assignments for CS122.
+
+Each lab is organized as a separate IntelliJ IDEA project and demonstrates the concepts covered in a **youtube video**.
+
+## Requirements
 
 - Java
+- luck
+- at least jgrasp
 
-- Luck
+## Report
 
-- A better IDE than JGrasp
-
-
+- claude definitely hasn't done anything in here, maybe GPT told me that I'm "gifted", but other than that -- no.
