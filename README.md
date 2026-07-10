@@ -1,6 +1,6 @@
-# CS123 Labs
+# CS122 Labs
 
-This repository contains my lab assignments for CS123.
+This repository contains my lab assignments for CS122.
 
 Each lab is organized as a separate IntelliJ IDEA project and demonstrates the concepts covered in a **youtube video**.
 
